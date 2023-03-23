@@ -132,6 +132,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://www.instagram.com/monocamo/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      # url: "https://www.instagram.com/monocamo/"
 
 # Site Footer
 footer:
@@ -157,6 +160,9 @@ footer:
     - label: "Flickr"
       icon: "fab fa-fw fa-flickr"
       #url: "https://www.flickr.com/photos/time_spirit/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      # url: "https://www.instagram.com/monocamo/"
 
 
 # Reading Files
