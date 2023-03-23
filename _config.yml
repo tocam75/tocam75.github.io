@@ -12,7 +12,8 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua"
+# minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -96,7 +97,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag"
   google:
     tracking_id          : "G-4WEVT00ZHS"
     anonymize_ip         : false
@@ -264,16 +265,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+  jekyll-archives:
+    enabled:
+      - categories
+      - tags
+    layouts:
+      category: archive-taxonomy
+      tag: archive-taxonomy
+    permalinks:
+      category: /categories/:name/
+      tag: /tags/:name/
 
 
 # HTML Compression
