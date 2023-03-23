@@ -10,19 +10,19 @@ main:
     url: /search/
 
 docs:
-  - title: "ABOUT1"
+  - title: "ABOUT"
     children:
       - title: "카테고리"
         url: /categories/
       - title: "태그"
         url: /tags/
         
-  - title: "ABOUT2"
-    children:
-      - title: "카테고리"
-        url: /categories/
-      - title: "태그"
-        url: /tags/ 
+#  - title: "ABOUT2"
+#   children:
+#      - title: "카테고리"
+#        url: /categories/
+#      - title: "태그"
+#        url: /tags/ 
 
   #- title: "About"
   #  url: https://mmistakes.github.io/minimal-mistakes/about/
