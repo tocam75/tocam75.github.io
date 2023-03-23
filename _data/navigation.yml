@@ -8,10 +8,10 @@ main:
     url: /search/
 
 docs:
-  - title: "대목차"
+  - title: "ABOUT"
     children:
-#      -title: "카테고리"
-#       url: /categories/
+      - title: "카테고리"
+        url: /categories/
       - title: "태그"
         url: /tags/
 #docs:
