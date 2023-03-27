@@ -105,9 +105,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "이카루스의 날개"
+  name             : "H&F DESIGN STUDIO 총무팀"
   avatar           : "../assets/images/bio_1.png"
-  bio              : "**H&F STUDIO LINK**"
+  bio              : "*H&F STUDIO LINK*"
   location         : "Republic of Korea: 경기도"
   email            :
   links:
