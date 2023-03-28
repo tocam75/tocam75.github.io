@@ -134,10 +134,10 @@ author:
       # url: "https://www.flickr.com/photos/time_spirit/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/monocamo/"
+      url: "https://www.instagram.com/monocamo/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.instagram.com/monocamo/"
+      # url: "https://www.instagram.com/monocamo/"
 
 # Site Footer
 footer:
