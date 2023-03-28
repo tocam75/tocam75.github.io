@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "aqua"
 locale                   : "ko-KR"
 title                    : "H&F Design Studio"
 title_separator          : "|"
-subtitle                 : 창공의 기사
+subtitle                 : version 1.0
 name                     : "H&F Design Studio"
 description              : "tocam75의 블로그입니다"
 url                      : "https://tocam75.github.io"
