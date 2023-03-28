@@ -26,7 +26,8 @@
           {% if category[1].size == i %}
             <ul style="padding-top: 0px; padding-bottom: 0px;">
               <a href="/categories/#{{ category[0] | slugify }}">
-                <strong style="font-size: 14px;">{{ category[0] }}</strong> <span class="taxonomy__count" style="font-size: 12px;">{{ i }}</span>
+                <!-- <strong style="font-size: 14px;">{{ category[0] }}</strong> <span class="taxonomy__count" style="font-size: 12px;">{{ i }}</span> -->
+                <strong style="font-size: 12px;">{{ category[0] }}</strong> <span class="taxonomy__count" style="font-size: 10px;">{{ i }}</span>
               </a>
             </ul>
           {% endif %}
@@ -47,7 +48,7 @@
         {% if tag[1].size == i %}
           <ul style="padding-top: 0px; padding-bottom: 0px;">
             <a href="/tags/#{{ tag[0] | slugify }}">
-              <strong style="font-size: 14px;">{{ tag[0] }}</strong> <span class="taxonomy__count" style="font-size: 12px;">{{ i }}</span>
+              <strong style="font-size: 12px;">{{ tag[0] }}</strong> <span class="taxonomy__count" style="font-size: 10px;">{{ i }}</span>
             </a>
           </ul>
         {% endif %}
@@ -58,8 +59,8 @@
   {% endif %}
 </nav>
 
-<!-->
-<nav class="nav__list">
+
+<!-- nav class="nav__list">
   {% if page.sidebar.title %}<h3 class="nav__title" style="padding-left: 0;">{{ page.sidebar.title }}</h3>{% endif %}
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
   <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
@@ -82,4 +83,4 @@
       </li>
     {% endfor %}
   </ul>
-</nav>
+</nav> -->
