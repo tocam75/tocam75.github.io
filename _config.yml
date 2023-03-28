@@ -27,7 +27,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/tocam75/tocam75.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "../assets/images/88x88.png"
-masthead_title           : "H&F STUDIO | DRONE WORLD"
+masthead_title           : "H&F DESIGN STUDIO | DRONE WORLD"
 breadcrumbs              : true
 words_per_minute         : 200
 comments:
@@ -105,18 +105,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "H&F STUDIO | 총무팀"
+  name             : "H&F STUDIO | 기획 ∙ 홍보"
   avatar           : "../assets/images/bio_1.png"
-  bio              : "*H&F STUDIO LINK*"
-  location         : "Republic of Korea: 경기도"
+  bio              : "**H&F STUDIO LINK**"
+  location         : "대한민국: 경기도"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:taxiplay@gmail.com"
-    - label: "Website"
+    - label: "항공촬영팀"
       icon: "fas fa-fw fa-link"
-      url: "https://tocam75.github.io"
+      url: "https://roseknight75.github.io"
+    - label: "영상제작팀"
+      icon: "fas fa-fw fa-link"
+      url: "https://camera49.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
