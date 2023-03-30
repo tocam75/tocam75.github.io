@@ -16,6 +16,8 @@ docs:
         url: /categories/
       - title: "태그"
         url: /tags/
+      - title: "일러두기 📢"
+        url: /about/
 
 
 # counts:
