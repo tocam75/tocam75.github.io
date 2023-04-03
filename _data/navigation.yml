@@ -18,7 +18,8 @@ docs:
         url: /tags/
       - title: "일러두기 📢"
         url: /about/
-
+      - title: "카카오톡 📢"
+        url: /chating/
 
 # counts:
 #  - title: "카테고리"
